@@ -1,0 +1,205 @@
+/*template 1 css*/
+.jason_bday_div ul li
+{
+    list-style: none;
+    /*margin-bottom: 10px;*/
+}
+.jason_bday_div h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+/*today bdays*/
+.jason_bday_div .jason_bday_today ul li
+{
+    text-align: center;
+}
+.jason_bday_div .jason_bday_today .bday_user
+{
+    clear: both;
+    display: block;
+    font-size: 200%;
+    font-weight: bold;
+}
+.jason_bday_div .jason_bday_today h1
+{
+    font-size: 180%;
+}
+.jason_bday_div .jason_bday_today img {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #999999;
+    padding: 12px;
+}
+.jason_bday_div .jason_bday_today
+{
+    margin-bottom: 30px;
+}
+/*past*/
+.jason_bday_div .jason_bday_past li p{
+    /* float: left;*/
+}
+.jason_bday_div .jason_bday_past .bday_user,
+.jason_bday_div .jason_bday_next .bday_user
+{
+    margin-left: 10px;
+    overflow-x:hidden;
+     vertical-align: top;
+}
+.jason_bday_div .jason_bday_past, 
+.jason_bday_div .jason_bday_next
+{
+    margin-bottom: 20px;
+}
+.jason_bday_div .jason_bday_past img, 
+.jason_bday_div .jason_bday_next img {
+    border: 1px solid #B3B3B3;
+    padding: 2px;
+}
+/*fin template 1 css*/
+
+/*template 2 css*/
+.jason_bday_div2 ul li
+{
+    list-style: none;
+    /*margin-bottom: 10px;*/
+}
+.jason_bday_div2 h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+/*today bdays*/
+.jason_bday_div2 .jason_bday_today ul li
+{
+    text-align: center;
+}
+.jason_bday_div2 .jason_bday_today .bday_user
+{
+    clear: both;
+    display: block;
+    font-size: 200%;
+    font-weight: bold;
+}
+.jason_bday_div2 .jason_bday_today h1
+{
+    font-size: 180%;
+}
+.jason_bday_div2 .jason_bday_today img {
+    padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+}
+.jason_bday_div2 .jason_bday_today
+{
+    margin-bottom: 30px;
+}
+/*past*/
+.jason_bday_div2 .jason_bday_past li p{
+    /* float: left;*/
+}
+.jason_bday_div2 .jason_bday_past .bday_user,
+.jason_bday_div2 .jason_bday_next .bday_user
+{
+    margin-left: 10px;
+    overflow-x:hidden;
+     vertical-align: top;
+}
+.jason_bday_div2 .jason_bday_past, 
+.jason_bday_div2 .jason_bday_next
+{
+    margin-bottom: 20px;
+}
+.jason_bday_div2 .jason_bday_past img, 
+.jason_bday_div2 .jason_bday_next img {
+    border: 1px solid #B3B3B3;
+    padding: 2px;
+}
+.jason_bday_div2 .jason_bday_past li,
+.jason_bday_div2 .jason_bday_next li{
+    float: left;
+    width: auto;
+    margin-right: 10px;
+}
+.jason_bday_div2 .jason_bday_next li .bday_user
+{
+    clear: both;
+    display: block;
+}
+.jason_bday_div2 .jason_bday 
+{
+    clear: both;
+}
+/*fin template 2 css*/
+
+/*template 3 css*/
+.jason_bday_div3 ul li
+{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.jason_bday_div3 h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+/*today bdays*/
+.jason_bday_div3 .jason_bday_today ul li
+{
+    text-align: center;
+}
+.jason_bday_div3 .jason_bday_today .bday_user
+{
+    clear: both;
+    display: block;
+    font-size: 200%;
+    font-weight: bold;
+}
+.jason_bday_div3 .jason_bday_today h1
+{
+    font-size: 180%;
+}
+.jason_bday_div3 .jason_bday_today img {
+   background:#ffffff;
+    padding:12px;
+    border:1px solid #999999; 
+}
+.jason_bday_div3 .jason_bday_today
+{
+    margin-bottom: 30px;
+}
+/*past*/
+.jason_bday_div3 .jason_bday_past li p,
+.jason_bday_div3 .jason_bday_next li p{
+    float: left;
+    width: auto;
+    margin-right: 10px;
+}
+.jason_bday_div3 .jason_bday_past .bday_user,
+.jason_bday_div3 .jason_bday_next .bday_user
+{
+  clear: both;
+    display: block;
+}
+.jason_bday_div3 .jason_bday_past, 
+.jason_bday_div3 .jason_bday_next
+{
+    margin-bottom: 20px;
+}
+.jason_bday_div3 .jason_bday_past img, 
+.jason_bday_div3 .jason_bday_next img {
+    border: 1px solid #B3B3B3;
+    padding: 2px;
+}
+.jason_bday_div3 .jason_bday_past li,
+.jason_bday_div3 .jason_bday_next li{
+    float: left;
+    width: auto;
+}
+.jason_bday_div3 .jason_bday 
+{
+    clear: both;
+    display: block;
+}
+.jason_bday_div3 .jason_bday_past img, 
+.jason_bday_div3 .jason_bday_next img
+{
+    /*display: none;*/
+}
+/*fin template 3 css*/
